@@ -1,7 +1,3 @@
----
-# frontmatter
----
-
 ## Curriculum Vitae
 
 20XX: Then something else
