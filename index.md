@@ -1,6 +1,6 @@
 ## Firstname I. Lastname
 
-I'm a [TITLE] at [INSTITUTION] working with [PERSON] as a principal investigator. On this website you will find my CV, publications, interests, updates about what I'm doing, and some free-floating ideas and opinions.
+I'm a [TITLE] at [INSTITUTION] working with [PERSON]. On this website you will find my CV, publications, interests, updates about what I'm doing, and some free-floating ideas and opinions.
 
 ## Contact
 
