@@ -21,7 +21,7 @@
 title: Tom-Q
 email: #your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Tom-Q personal page - postdoc at ... in ....
+  Interest 1, interest 2, witticism
 baseurl: "/website" # the subpath of your site, e.g. /blog
 url: "https://tom-q.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: #jekyllrb
