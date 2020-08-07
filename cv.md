@@ -2,7 +2,7 @@
 # frontmatter
 ---
 
-##Curriculum Vitae
+## Curriculum Vitae
 
 20XX: Then something else
 20XX: Something happened
